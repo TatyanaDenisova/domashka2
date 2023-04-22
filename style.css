@@ -1,0 +1,36 @@
+body {
+    background-color: azure;
+}
+
+h1 {
+    color: rgb(235, 212, 12);
+}
+
+h2 {
+    color: rgb(221, 18, 18);
+}
+
+h3 {
+    color: rgb(201, 58, 14);
+}
+
+a {
+    color: green;
+}
+
+a:hover {
+    color: gold;
+}
+
+img {
+    width: 500px;
+    margin-left: 30px;
+}
+
+.big-text {
+    font-size: 2rem;
+}
+
+ul {
+    list-style-type: upper-roman;
+}
